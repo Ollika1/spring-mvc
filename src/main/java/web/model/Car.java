@@ -20,7 +20,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{ " +
+        return "Car{" +
                 "series=" + series +
                 ", model=" + model  +
                 ", color=" + color  +
